@@ -39,3 +39,4 @@ The Weather Widget Application is a lightweight, responsive web app that provide
 **•	Customizable Themes:** Allow users to personalize the widget’s appearance.
 
 **•	Voice Search:** Enable voice-based weather search.
+
